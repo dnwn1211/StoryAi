@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navBar{
+    margin: 2%;
+    text-align: center;
+    align-items: end;
+}
+.navContainer{
+    align-items: end;
+}
+.leftNav{
+    font-weight: bolder;
+    align-items: center;
+}
+.rightNav{
+    font-weight: bolder;
+    font-size: small;
+    height: 100%;
+}
+.bannerPostition{
+    position: relative;
+}
+.bannerBtn{
+    position: absolute;
+    top: -12vw;
+    left: 13vw;
+    width: 14rem;
+    height: 4rem;
+}
+.gameSelect{
+    width: 25%;
+    margin-bottom: 3vw;
+}
+.footer{
+    background-color: black;
+}
